@@ -1,0 +1,14 @@
+1 Write a JavaScript program to sort the items of an array. (Sample array = [ 3, 8, 7, 6, 5, -4, 3, 2, 1 ])
+2 Write a JavaScript function to join all elements of the following array into a string.
+   Sample array : ["Red", "Green", "White", "Black"];
+3 Write a function that returns the sum of the numbers 0-n (For ex. Input:423 and Output = 9)
+4 Write a JS function that takes input as : [3, 6, 7, 12, 23, 4, 1, 16, 2] 
+  and return result : [0, 1, 0, 1, 0, 1, 0, 1, 1]
+5 Write a JavaScript program to delete the rollno property from the following object. Also print the object before or after deleting the property.
+  Sample object: 
+  var student = { 
+  name : "David Rayy", 
+  sclass : "VI", 
+  rollno : 12 };
+6 Write a function to get the extension of a filename.
+7 Write a JavaScript program to get the difference between a given number and 13, if the number is greater than 13 return double the absolute difference.

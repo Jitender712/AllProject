@@ -1,0 +1,7 @@
+POST  http://localhost:5001/user/singnUp HTTP/1.1
+Content-Type: application/json
+{
+    "email" : "abc@gmail.com",
+    "password" : "qwertyuiop",
+    "confirmPassword" : "qwertyuiop"
+}
